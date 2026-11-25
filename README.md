@@ -1,74 +1,64 @@
-<div align="center">
-<h1>Nara-bot</h1>
-  <h3>Full-Stack Software Engineer | Cybersecurity & Offensive Security</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO.;I+AM+A+SENIOR+SOFTWARE+ENGINEER.;I+AM+A+FULLSTACK+WEB+DEVELOPER.;ALSO+AN+EXPERIENCED+BLOCKCHAIN+ENGINEER.;AND+SOPHISTICATED+AI+ENGINEER.;WELCOME+TO+MY+PROFILE.)](https://git.io/typing-svg)
+  
+<h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
+<h4 align="center">👯Let's make "Success" Together!👯</h4>
+<br>
+Senior Software Engineer with 8+ years of experience in designing, developing and deploying high-impact full stack web & mobile applications, blockchain decentralized applications and AI-powered SaaS platform.
 
-  <p>
-    Building secure, scalable, production-ready systems with embedded security controls.<br>
-    Designed assuming compromise — resilient, observable, maintainable under real attack conditions.
-  </p>
+**Technical Expertise**:
 
-  <p>
-    <strong>📞 Contact:</strong> +254 113 169 506 | +254 768 588 224
-  </p>
+ - Frontend development (React, Next.js, Redux, Vue.js, Tailwind CSS, Java)
+ - Backend development (Node.js, Nest.js, MongoDB, PostgreSQL, Python, FastAPI, Firebase, AWS)
+ - Mobile App development (React Native, Flutter, Ionic Capacitor)
+ - DeFi protocol architecture, smart contract optimization and Cross-chain interoperability solutions (Solidity, Hardhat, Rust, Anchor)
+ - AI agent development (Python, LangChain, LangGraph, RAG, MCP, Twilio, Vapi, ElevenLabs, OpenAI)
 
-  <!-- Social badges -->
-  <p>
-    
-    <a href="https://www.credly.com/users/benard-karanja.9b6082af">
-      <img src="https://img.shields.io/badge/Credly-Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
-    </a>
-    <a href="https://tryhackme.com/r/p/NcogNto">
-      <img src="https://img.shields.io/badge/TryHackMe-NcogNto-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-    </a>
-  </p>
+<br>
+<h4 align="center">🔥 My skills 🔥</h4>
+<hr>
+<br>
+<p>💬I consider myself a person who follows modern web development practices and new technologies.</p>
+<p>So, this list will be uniformly updated as I never stop learning.</p>
+<br>
 
-  <br>
+![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Quasar-informational?style=flat&logo=quasar&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Native_Script-informational?style=flat&logo=nativescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Nara-bot&theme=radical&hide_border=false" height="150px"/>
-  <br><br>
+<hr>
+<hr/>
 
-  <em>Building systems that survive real adversaries</em>
+<h2 align="center"> 👯Let's go together!👯 </h2>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 
-  <hr width="60%">
-</div>
-
-## Selected Work
-
-**Wholesale E-Commerce Platform**  
-*Lead Software Engineer*  
-End-to-end architecture, RBAC, auth flows, query optimization, security hardening, CI/CD.  
-**Stack:** Django · PostgreSQL · Nginx · Docker
-
-## Technical Stack
-
-<div align="center">
-
-| Category            | Technologies                                                                |
-|---------------------|-----------------------------------------------------------------------------|
-| Languages           | Python · TypeScript / JavaScript · Solidity · SQL                           |
-| Backend & APIs      | Node.js / Express · Django · REST & GraphQL                                 |
-| Databases & Infra   | PostgreSQL · Docker · Linux · Nginx                                         |
-| Security & Pentest  | Kali Linux · Metasploit · Burp Suite · Wireshark                            |
-| Blockchain          | Ethereum · Solidity · Smart contract auditing                               |
-| AI & Agents         | LangGraph · RAG pipelines · Hugging Face · OpenAI APIs                      |
-
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">  
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">  
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity">  
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">  
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">  
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali">  
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" alt="Ethereum">
-  <br><br>
-</div>
-
-<div align="center">
-  <hr width="50%">
-  <p><strong>Open to security engineering, backend architecture, blockchain, or controlled AI challenges.</strong></p>
-  <p>Reach out via LinkedIn, GitHub, or phone.</p>
-</div>
+<hr/>
